@@ -22,5 +22,36 @@ To add commas to a string, you can use the following:
 
 ```Text(addNumberCommas('393849257')),```
 
+Check out this example:
+```
+import 'package:flutter/material.dart';
+import 'package:big_numbers/big_numbers.dart';
+
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  static String exampleNumber = '4802347839';
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              Text(simplifyNumber(exampleNumber)),
+              SizedBox(height: 20),
+              Text(addNumberCommas(exampleNumber)),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+```
+
 If there are any issues, then please don't hesitate to notify me about it or 
 simply file an issue on [GitHub](https://github.com/ziyadfarhan296/big_numbers/issues).
