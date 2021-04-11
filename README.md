@@ -23,4 +23,4 @@ To convert big numbers into short phrases, you can use the following:
 ```Text(addNumberCommas('393849257')),```
 
 If there are any issues, then please don't hesitate to notify me about it or 
-simply file an issue on (GitHub)[https://github.com/ziyadfarhan296/big_numbers/issues].
+simply file an issue on [GitHub](https://github.com/ziyadfarhan296/big_numbers/issues).
