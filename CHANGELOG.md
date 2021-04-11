@@ -1,3 +1,7 @@
+## [2.0.1] - April 11, 2021.
+
+* README.md fixes.
+
 ## [2.0.0] - April 11, 2021.
 
 * Migrated package to Null-Safety
