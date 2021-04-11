@@ -18,7 +18,7 @@ To convert big numbers into short phrases, you can use the following:
 
 ```Text(simplifyNumber('393849257')),```
 
-//To add commas to a string, you can use the following:
+To add commas to a string, you can use the following:
 
 ```Text(addNumberCommas('393849257')),```
 
