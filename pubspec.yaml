@@ -1,6 +1,8 @@
 name: big_numbers
-description: big_numbers
-version: 2.0.1
+description: Simplify numbers from large phrases into shorter and smaller formats. Example such as 1,000,000 will be converted to 1M. Support to add commas is included as well.
+version: 2.1.0
+repository: https://github.com/ziyadfarhan296/big_numbers
+homepage: https://github.com/ziyadfarhan296/big_numbers
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

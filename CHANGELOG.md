@@ -1,3 +1,6 @@
+## [2.1.0] - April 11, 2021.
+
+* Documentation improvments.
 ## [2.0.1] - April 11, 2021.
 
 * README.md fixes.
