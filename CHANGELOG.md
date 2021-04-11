@@ -1,3 +1,7 @@
+## [2.2.0] - April 11, 2021.
+
+* Documentation improvments & example provided.
+
 ## [2.1.0] - April 11, 2021.
 
 * Documentation improvments.
