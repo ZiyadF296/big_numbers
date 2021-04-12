@@ -28,7 +28,7 @@ String simplifyNumber(String value) {
 ///- Thousand = K
 ///- Million = M
 ///- Billion = B
-///- Trillions = B
+///- Trillions = T
 
 String _numberCountLogic(int length, String value) {
   ///Forms the string that will be returned at the end of computation.
